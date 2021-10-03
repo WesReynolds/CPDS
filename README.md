@@ -1,5 +1,5 @@
 # StatsMachine
-By Wesley Reynolds
+By the Cal Poly Data Science Club
 
 A library that seeks to automate statistical visualizations and calculations.
 The NormalDatabase, Vector, and SAnalysis libraries serve to provide common data structures
@@ -7,8 +7,8 @@ that can be of benefit for storing and calculating desired statistics given a da
 
 The StatsMachine library seeks to offer a platform for which users can compute various statisitcal analyses
 while only having information about their data file and its location. 
-To do this, I have created a data structure (NormalDatabase) that can be used by many to create 
-statistical analysis packages to their heart's desire. I also created a library (ReadCSV) that includes
+To do this, we have created a data structure (NormalDatabase) that can be used by many to create 
+statistical analysis packages to their heart's desire. We also created a library (ReadCSV) that includes
 a set of methods that can used to create a NormalDatabase object from a given ".csv" file and filepath.
 
 # What to Develop Next:
